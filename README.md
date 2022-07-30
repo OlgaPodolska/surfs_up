@@ -26,7 +26,7 @@ I examined weather trends on Oahu:
 
 ![img2.png](/images/img2.png) 
 
-* The average temperature is around of 70 farenheit.
+* The average temperature is 71-75 farenheit.
 * Both June and December showed similar min/max and average temperatures.
 * We can safely assume that the temperature does not have dramatic fluctuations through the year.
 

@@ -1,5 +1,5 @@
 # surfs_up
-Using SQLite and Flask for climate Analysis 
+Using SQLite and Flask for Climate Analysis 
 
 # Overview of the analysis
 
@@ -15,7 +15,7 @@ Flask
 
 I examined weather trends on Oahu:
 
-* accessed meteorological data from the 6 meteorological stantions:
+* accessed meteorological data from the 9 meteorological stantions:
 
 ![img5.png](/images/img5.png) 
 

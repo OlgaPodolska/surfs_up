@@ -5,11 +5,11 @@ Using SQLite and Flask for Climate Analysis
 
 The purpose of this analysis is to explore the data in the SQLite database containing the weather conditions that has been stored. This information supposes to convince an investor to open the shop on Oahu, Hawaii. In order to get this investor on board, we need to provide statistical analytics specifically on the weather conditions in Oahu that will convince him that this will be a successful business venture.
 
-**Used tools:**
-Jupyter Notebook
-SQLite
-SQLAlchem
-Flask
+**Used tools:**  
+Jupyter Notebook    
+SQLite  
+SQLAlchem  
+Flask  
 
 # Results
 
@@ -18,7 +18,6 @@ I examined weather trends on Oahu:
 * accessed meteorological data from the 9 meteorological stantions:
 
 ![img5.png](/images/img5.png) 
-
 * wrote queries to examine temperature data collected in the months of June and December,
 * calculated summary statistics (especially min, max, and average temperatures collected).
 
